@@ -1,7 +1,7 @@
 i#include <stdio.h>
 
 /**
- * main - Using putchar, prints the lowercase alphabet in reverse.
+ * main - Prints the lowercase alphabet in reverse.
  *
  * Return: Always 0.
  */
